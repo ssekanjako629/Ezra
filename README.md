@@ -1,25 +1,16 @@
+ INTERNET AWARENESS WEBSITE
+ 
+ The Internet Awareness Website is an educational web project designed to inform and guide users on how to safely use the internet. With the rapid growth of digital technology, many people are exposed to cyber threats without proper knowledge of how to protect themselves. This website aims to bridge that gap by providing simple, clear, and practical information about online safety.
 
-# 🌐 Internet Awareness Website
-
-## 📌 Project Overview
-
-The Internet Awareness Website is an educational web project designed to inform and guide users on how to safely use the internet. With the rapid growth of digital technology, many people are exposed to cyber threats without proper knowledge of how to protect themselves. This website aims to bridge that gap by providing simple, clear, and practical information about online safety.
-
----
-
-## 🎯 Purpose of the Project
+ PROJECT PURPOSE
 
 The main purpose of this project is to raise awareness about cybersecurity within the community. It helps users understand common online risks and teaches them how to avoid becoming victims of cybercrime.
 
----
-
-## ⚠️ Problem Statement
+ PROBLEM STATEMENT
 
 Many internet users lack basic knowledge about online threats such as phishing, hacking, and identity theft. This makes them vulnerable to cyber attacks, financial loss, and data breaches.
 
----
-
-## 💡 Solution
+ SOLUTIONS DESIGN
 
 This website provides:
 
@@ -27,34 +18,26 @@ This website provides:
 * Practical safety tips for internet users
 * Awareness messages for responsible online behavior
 
----
-
-## 🛠️ Technologies Used
+ USED TECHNOLOGIES
 
 * HTML5 – for structuring the web pages
 * CSS3 – for styling and layout design
 * GitHub Pages – for hosting the website online
 
----
-
-## 🚀 Features of the Website
+WEBSITE FEATURES
 
 * Simple and user-friendly interface
 * Sections explaining cyber threats
 * Internet safety tips
 * Responsive design for different devices
 
----
-
-## 👥 Target Audience
+ TARGET AUDIENCE
 
 * Students
 * Beginners in internet usage
 * General community members
 
----
-
-## 🌍 Expected Impact
+ EXPECTED OUTCOME
 
 The project is expected to:
 
@@ -62,20 +45,14 @@ The project is expected to:
 * Promote safe internet practices
 * Reduce cases of online fraud and cybercrime
 
----
-
-## 🔗 Deployment
+ DEPLOYMENT
 
 This website is hosted using GitHub Pages and can be accessed online through a public link.
 
----
-
-## 👨‍💻 Author
+AUTHOR
 
 Your Name
 
----
-
-## 📅 Year
+ Year
 
 2026
