@@ -34,8 +34,8 @@ WEBSITE FEATURES
  TARGET AUDIENCE
 
 * Students
-* Beginners in internet usage
-* General community members
+* Internet users
+* General public
 
  EXPECTED OUTCOME
 
