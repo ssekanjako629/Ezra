@@ -50,10 +50,7 @@ The project is expected to:
 
 This website is hosted using GitHub Pages and can be accessed online through a public link.
 
-AUTHOR
+AUTHOR;
 
-Your Name
+Web developer
 
- Year
-
-2026
