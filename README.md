@@ -15,8 +15,8 @@ Many internet users lack basic knowledge about online threats such as phishing, 
 This website provides:
 
 * Information about common cyber threats
-* Practical safety tips for internet users
-* Awareness messages for responsible online behavior
+* Practical safety measures for internet users
+* Awareness messages for responsible online behavior and usage
 
  USED TECHNOLOGIES
 
