@@ -1,4 +1,4 @@
- INTERNET AWARENESS WEBSITE
+ INTERNET AWARENESS HUB
  
  The Internet Awareness Website is an educational web project designed to inform and guide users on how to safely use the internet. With the rapid growth of digital technology, many people are exposed to cyber threats without proper knowledge of how to protect themselves. This website aims to bridge that gap by providing simple, clear, and practical information about online safety and as well to safeguard the public about internet use.
 
