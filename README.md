@@ -24,7 +24,8 @@ This website provides:
 * CSS3 – for styling and layout design
 * script.js- for design and appearance
 * Github pages - for hosting the page
-* 
+* Github - version control
+  
 
 WEBSITE FEATURES
 
