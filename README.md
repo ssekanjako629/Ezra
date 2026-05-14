@@ -23,6 +23,7 @@ This website provides:
 * HTML5 – for structuring the web pages
 * CSS3 – for styling and layout design
 * script.js- for design and appearance
+* Github - for hosting the page
 
 WEBSITE FEATURES
 
